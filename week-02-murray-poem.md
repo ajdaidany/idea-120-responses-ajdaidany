@@ -1,5 +1,5 @@
 ## Title  
 
-Sentence 1  
+`#A50000` Sentence 1  
 Sentence 2  
 Sentence 3  
